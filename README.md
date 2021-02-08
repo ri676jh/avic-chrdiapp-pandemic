@@ -7,3 +7,5 @@ Auto submit copter pandemic info 自动提交copter商网疫情信息
 可以调整保活时间
 
 需要手动输入copter四位职工编码
+
+1、12小时候token或cookie失效
